@@ -1,2 +1,2 @@
 # PlaylistDownloader
-Dynamic optimal partition of video file fast download
+Dynamic optimal partition of video file for fast downloading
